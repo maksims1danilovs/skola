@@ -5,7 +5,7 @@ b = 7
 slovo = "abrakadabra"
 pismeno = "z"
 
-promenna = (pismeno in slovo) or (x == y) or (x is y) and ((a+b) > 15)
+promenna = (pismeno in slovo) or (x == y) or (x is y) and (((a+b) > 15))
 
 
 if promenna:
